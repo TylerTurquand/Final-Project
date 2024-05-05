@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this project, the task was to analyze test datasets provided by the BI-Analytics Team to understand the popularity of restaurants and gain insights into factors driving their success. The datasets include information on food, menus, orders, restaurants, and users. I was tasked with choosing one of three areas to focus my analysis, choosing to focus on restaurant revenue and ratings. The objective is to present a dashboard and analysis report outlining key findings related to restaurant popularity and sales dynamics.
+For this project, the task was to analyze test datasets provided by the BI-Analytics Team to understand the popularity of restaurants and gain insights into factors driving their success. The datasets include information on food, menus, orders, restaurants, and users. The objective was to present a dashboard and analysis report outlining key findings related to restaurant popularity and sales dynamics.
 
 ### Results:
 
